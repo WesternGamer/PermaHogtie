@@ -15,7 +15,7 @@ using namespace Keyboard;
 using namespace Pools;
 using namespace std;
 
-namespace RDR2ASIScriptTemplate 
+namespace PermaHogtie 
 {
 	/// <summary>
     /// Called every game update.
